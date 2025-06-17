@@ -1,4 +1,4 @@
-public class ClassLinkedList {
+public class LinkedList {
 }
 
 class Node {
